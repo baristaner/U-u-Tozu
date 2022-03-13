@@ -1,2 +1,2 @@
-# U-u-Tozu
+# Ucuc Tozu
 Garry's Mod HogwartsRP
