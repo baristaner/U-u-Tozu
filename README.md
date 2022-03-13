@@ -1,7 +1,7 @@
 # Ucuc Tozu
-Garry's Mod HogwartsRP
 
-https://youtu.be/EKzAZqgvIhs
+
+[![Ucuc Tozu](https://img.youtube.com/vi/EKzAZqgvIhs/0.jpg)](https://www.youtube.com/watch?v=EKzAZqgvIhs)
 
 Gerekli Content :
 https://steamcommunity.com/sharedfiles/filedetails/?id=1551310214
