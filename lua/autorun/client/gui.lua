@@ -303,7 +303,7 @@ net.Receive("gecisefekti",function(len)
     hook.Add( "HUDPaint", "h", function() 
     if (IsValid(LocalPlayer())) then 
     draw.RoundedBox( 0, ScrW() * 0, ScrH() * 0, ScrW() * 1, ScrH() * 1,Color(0,0,0,Lerp( SysTime() - start, 0, 255 )) )
-    draw.SimpleText("Cisimleniyorsun : "..oku..timer.RepsLeft( any identifier ),"gecisyazi", ScrW() * 0.24, ScrH() * 0.42,Color(255,255,255,Lerp( SysTime() - start, 0, 255 )))
+    draw.SimpleText("Cisimleniyorsun : "..oku,"gecisyazi", ScrW() * 0.24, ScrH() * 0.42,Color(255,255,255,Lerp( SysTime() - start, 0, 255 )))
 end 
 end)
 end)
